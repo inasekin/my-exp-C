@@ -1,0 +1,5 @@
+Credentials cache: API:B2052011-ED39-4383-A788-87C139D0E516
+        Principal: caenys@MSK.21-SCHOOL.RU
+
+  Issued                Expires             Flags    Principal
+Feb 15 15:48:27 2021  Feb 16 01:48:19 2021  FPI    krbtgt/MSK.21-SCHOOL.RU@MSK.21-SCHOOL.RU
